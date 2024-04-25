@@ -6,5 +6,8 @@ The finished prototype ended up looking like this.
 
 <div style="text-align: center;">
     <img src="Prototype/prototype.jpg" width="400" />
+</div>
+
+<div style="text-align: center;">
     <img src="Prototype/prototype_eletronics.jpg" width="400" />
 </div>
